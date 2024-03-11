@@ -9,3 +9,8 @@
 
 ## **IN SHORT THE CONTENT OF ROOT FOLDER LATOUT FILE WILL BE DISPLAYED TO THEIR CHILDREN FOLDER**
 
+## we are using acertainity for the ui 
+- here we have to get the components we want run npm given in the website 
+- Add the file in the utils given with the same name as in the acertainity file 
+- copy the source code 
+
